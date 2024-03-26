@@ -52,7 +52,14 @@ const affirmations = [
     "Look at you making the best of life.",
     "You deserve every bit og the happiness you feel.",
     "Your feelings are valid.",
-    "Everyone literally loves you...Like so so much."
+    "Everyone literally loves you...Like so so much.",
+    "Things will get better with time",
+    "What if it turns out better than you imagined it would?",
+    "Life happens in the most miraculous ways.",
+    "Trust me, you got this!",
+    "You've fought a long way, and here you are in your throne.",
+    "You are ALREADY all you wanted to be.", 
+    "Its coming to you faster than you can think."
   ];
   
 
