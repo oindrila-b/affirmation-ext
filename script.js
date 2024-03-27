@@ -50,7 +50,7 @@ const affirmations = [
     "All your manifestations are coming to you.",
     "I love how you slay every day!",
     "Look at you making the best of life.",
-    "You deserve every bit og the happiness you feel.",
+    "You deserve every bit of the happiness you feel.",
     "Your feelings are valid.",
     "Everyone literally loves you...Like so so much.",
     "Things will get better with time",
