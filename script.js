@@ -59,7 +59,12 @@ const affirmations = [
     "Trust me, you got this!",
     "You've fought a long way, and here you are in your throne.",
     "You are ALREADY all you wanted to be.", 
-    "Its coming to you faster than you can think."
+    "Its coming to you faster than you can think.",
+    "I believe in you.",
+    "You're smart, beautiful, kind and an incredible person",
+    "Success suits you better.",
+    "Everything you go through is a pert of life. Embrace it, Love it, Live it.", 
+    "It always works out in the end."
   ];
   
 
