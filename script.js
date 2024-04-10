@@ -66,7 +66,9 @@ const affirmations = [
     "Everything you go through is a pert of life. Embrace it, Love it, Live it.", 
     "It always works out in the end.", 
     "Look at you slaying your work.",
-    "You got it all."
+    "You got it all.",
+    "God is always protecting you.",
+    "I BELIEVE IN YOU"
   ];
   
 
