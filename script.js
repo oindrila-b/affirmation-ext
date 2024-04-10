@@ -64,7 +64,9 @@ const affirmations = [
     "You're smart, beautiful, kind and an incredible person",
     "Success suits you better.",
     "Everything you go through is a pert of life. Embrace it, Love it, Live it.", 
-    "It always works out in the end."
+    "It always works out in the end.", 
+    "Look at you slaying your work.",
+    "You got it all."
   ];
   
 
